@@ -1,0 +1,12 @@
+{
+  "name": "robindev/selenium-chrome-http-private-proxy",
+  "description": "Selenium Chrome HTTP Private Proxy",
+  "keywords": ["selenium", "chrome", "private proxy", "proxy"],
+  "license": "GPL-3.0-only / GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Buba Suma",
+      "email": "bubasuma@gmail.com"
+    }
+  ]
+}
